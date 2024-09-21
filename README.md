@@ -10,7 +10,18 @@ latihan ini menggunakan beberapa dependensi, antara lain:
 ## Instalasi
 
 1. **Clone Repository**
+
     ```bash
     git clone https://github.com/yudhisrana/latihan-golang-api.git
-    cd latihan-golang-api
     ```
+
+2. **Database**
+
+-   sesuaikan konfigurasi database di file database/config.go
+
+3. **Konfigurasi**
+
+-   open terminal
+-   cd latihan-golang-api
+-   go mod tidy
+-   go run main.go
