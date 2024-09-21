@@ -19,7 +19,7 @@ latihan ini menggunakan beberapa dependensi, antara lain:
 
 -   sesuaikan konfigurasi database di file database/config.go
 
-3. **Konfigurasi**
+## Konfigurasi
 
 -   open terminal
 -   cd latihan-golang-api
