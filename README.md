@@ -11,6 +11,6 @@ latihan ini menggunakan beberapa dependensi, antara lain:
 
 1. **Clone Repository**
     ```bash
-    git clone https://github.com/username/latihan-golang-api.git
+    git clone https://github.com/yudhisrana/latihan-golang-api.git
     cd latihan-golang-api
     ```
