@@ -15,7 +15,7 @@ latihan ini menggunakan beberapa dependensi, antara lain:
     git clone https://github.com/yudhisrana/latihan-golang-api.git
     ```
 
-2. **Database**
+## Database
 
 -   sesuaikan konfigurasi database di file database/config.go
 
